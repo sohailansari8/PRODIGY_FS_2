@@ -1,36 +1,41 @@
-# PRODIGY_FS_2
+# Employee Management System
 
-## Overview
-PRODIGY_FS_2 is a project designed to [briefly describe the purpose or functionality of your project].
+A simple web-based Employee Management System built with HTML, CSS, and JavaScript.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
 
-## Installation
+- Add new employees with details
+- View employee list
+- Delete employee records
+- Update employee information
+- Responsive design for all devices
 
-```bash
-git clone https://github.com/yourusername/PRODIGY_FS_2.git
-cd PRODIGY_FS_2
-```
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
 ## Usage
 
-```bash
-# Instructions to run your project
-python main.py
-```
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Start managing employee records
 
-## Requirements
-- Python 3.x
-- [List any other dependencies]
+## How It Works
+
+- Stores data in browser's local storage
+- Real-time updates without page refresh
+- Simple and intuitive user interface
+
+## Screenshots
+
+[Add screenshots of your application here]
 
 ## Contributing
-Contributions are welcome! Please open issues or submit pull requests.
+
+Feel free to submit issues and pull requests.
 
 ## License
-This project is licensed under the [Your License].
 
-## Contact
-For questions or feedback, contact [your email or GitHub profile].
+This project is open source and available under the [MIT License](LICENSE).
